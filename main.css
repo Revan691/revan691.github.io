@@ -1,0 +1,112 @@
+                .background {
+                    background: url("image/lstorm.jpg") no-repeat center center fixed;
+                    background-size: cover;
+                }
+                
+                .large {
+                    font-size: 50px;
+                }
+                
+                .small {
+                    font-size: 20px;
+                }
+                
+                .medium {
+                    font-size: 35px;
+                }
+                
+                .center {
+                    text-align: center;
+                }
+                
+                .paragraph {
+                    color: whitesmoke;
+                    font-size: 20px;
+                }
+                
+                .right {
+                    text-align: right;
+                }
+                
+                .nav {
+                    background-color: rgba(rgb(50, 11, 73), rgb(54, 6, 68), rgb(37, 5, 70), 0.5);
+                    justify-content: space-around;
+                    font-size: 25px;
+                }
+                
+                .left {
+                    text-align: left;
+                }
+                
+                .nav a {
+                    color: white;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+                
+                .nav a:hover {
+                    color: rgba(178, 250, 9, 0.871);
+                }
+                
+                .customtext1 {
+                    color: white;
+                    font-weight: bold;
+                }
+                
+                .maintitle {
+                    color: white;
+                    font-weight: bold;
+                    text-decoration: underline;
+                    font-size: 50px;
+                }
+                
+                .minititle {
+                    color: white;
+                    font-weight: bold;
+                    text-decoration: underline;
+                    font-size: 25px;
+                }
+                
+                .link {
+                    color: white;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+                
+                .link:hover {
+                    color: rgba(178, 250, 9, 0.871);
+                }
+                
+                resize {
+                    height: auto;
+                    width: auto;
+                    max-height: 300px;
+                    max-width: 300px;
+                }
+                
+                .bground {
+                    background-color: rgba(black, black, black, 0.9)
+                }
+                
+                .container {
+                    display: flex;
+                    min-height: 100vh;
+                    flex-direction: row;
+                }
+                
+                .box {
+                    color: white;
+                    font-size: 50px;
+                    padding: 15px;
+                    width: 400px;
+                }
+                
+                .spacearound {
+                    display: flex;
+                    justify-content: space-around;
+                }
+                
+                .row {
+                    display: flex;
+                    flex-direction: row;
+                }
